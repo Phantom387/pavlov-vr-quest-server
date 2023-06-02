@@ -12,8 +12,8 @@ services:
       - "${RCON_PORT-9100}:${RCON_PORT-9100}"
     
     environment:
-      SERVER_NAME: Your_name_server
-      RCON_PWD: ChangeThisPassword
+      SERVER_NAME: Phantom's Hell Hole
+      RCON_PWD: dontguessthis
       RCON_PORT: ${RCON_PORT-9100}
       UPDATE_SERVER: "True"
 
